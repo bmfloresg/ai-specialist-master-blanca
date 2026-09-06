@@ -1,0 +1,3 @@
+1. Qué hago Diseño soluciones de IA aplicada para la automatización de procesos internos, la creación de agentes operativos que reducen tareas manuales y el diseño de sistemas de reporting aumentado.
+2. Cómo lo hago Mi enfoque combina estrategia, construcción técnica y adopción para integrar datos y herramientas, analizar procesos reales y acompañar a los equipos en la implementación de soluciones de IA
+3. Qué entrego Entrego soluciones de IA que optimizan operaciones, generan claridad en la toma de decisiones y proporcionan un roadmap claro para la adopción sostenible de la inteligencia artificial.
