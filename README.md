@@ -51,5 +51,5 @@ La estructura, los contenidos, los proyectos y la guía metodológica han sido g
 
 ## Contacto
 
-LinkedIn: (añadir enlace)  
-Email profesional: (añadir email)
+LinkedIn:  
+Email profesional: bm.blanca@gmail.com
