@@ -1,0 +1,35 @@
+# Flujo Técnico — Proyecto 01 (ALIF)
+
+## 1. Trigger
+El flujo se activa cuando se añade una nueva imagen a la carpeta de fotos del móvil o del ordenador.
+
+## 2. Clasificación con IA
+La imagen se envía a un modelo de visión para detectar:
+- Rostros
+- Capturas de pantalla
+- Imágenes borrosas
+- Imágenes duplicadas
+- Imágenes irrelevantes
+
+## 3. Reglas del sistema
+- Si no contiene rostro → marcar como “posible eliminación”
+- Si es captura de pantalla → mover a carpeta “Screenshots”
+- Si es borrosa → eliminar
+- Si es duplicada → conservar la mejor versión
+- Si contiene texto importante → mover a “Documentos”
+
+## 4. Acciones
+- Mover imagen
+- Eliminar imagen
+- Guardar en carpeta específica
+- Registrar acción en log
+
+## 5. Log del sistema
+Cada acción queda registrada para generar un reporte semanal.
+
+## 6. Reporte semanal
+El sistema genera un informe con:
+- Imágenes eliminadas
+- Imágenes movidas
+- Imágenes conservadas
+- Duplicados detectados
