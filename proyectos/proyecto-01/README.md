@@ -1,5 +1,6 @@
 ![Magix Photo Manager](./Magix_Photo_Manager_Deluxe.jpg)
-proyectos/proyecto-01/Burst-Buddy-Photo-Management.webp
+![Burst Buddy Photo Management](./Burst-Buddy-Photo-Management.webp)
+
 
 
 
