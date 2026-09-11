@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./Magix_Photo_Manager_Deluxe.jpg" width="200">
   <img src="./Burst-Buddy-Photo-Management.webp" width="250">
-  <img src="./1665567114927.png" width="225">
+  <img src="./1665567114927.png" width="228">
   <img src="./sustainability-15-05930-g004.png" width="200">
 </p>
 
