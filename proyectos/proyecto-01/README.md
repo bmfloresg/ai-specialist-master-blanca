@@ -1,5 +1,7 @@
 ![Magix Photo Manager](./Magix_Photo_Manager_Deluxe.jpg)
 ![Burst Buddy Photo Management](./Burst-Buddy-Photo-Management.webp)
+![Imagen del proyecto](./1665567114927.png)
+![Sustainability Diagram](./sustainability-15-05930-g004.png)
 
 
 
