@@ -1,3 +1,8 @@
+![Magix Photo Manager](./Magix_Photo_Manager_Deluxe.jpg)
+
+
+
+
 # Proyecto 01 — Agente de Limpieza Inteligente de Fotos (ALIF)
 
 🎯 Objetivo del proyecto
