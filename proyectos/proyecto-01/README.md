@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="./Magix_Photo_Manager_Deluxe.jpg" width="400">
-  <img src="./Burst-Buddy-Photo-Management.webp" width="400">
-  <img src="./1665567114927.png" width="400">
-  <img src="./sustainability-15-05930-g004.png" width="400">
+  <img src="./Magix_Photo_Manager_Deluxe.jpg" width="100">
+  <img src="./Burst-Buddy-Photo-Management.webp" width="100">
+  <img src="./1665567114927.png" width="100">
+  <img src="./sustainability-15-05930-g004.png" width="100">
 </p>
 
 
