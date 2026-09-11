@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./Magix_Photo_Manager_Deluxe.jpg" style="max-width: 300px;">
+   <img src="./Magix_Photo_Manager_Deluxe.jpg" style="max-width: 320px;">
    <img src="./BU3AXnzXyGDmWekr4zajU.png" style="max-width: 300px;">
    <img src="./1665567114927.png" style="max-width: 300px;">
    <img src="./sustainability-15-05930-g004.png" style="max-width: 300px;">
