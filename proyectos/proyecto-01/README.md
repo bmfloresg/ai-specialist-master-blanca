@@ -3,6 +3,12 @@
 ![Imagen del proyecto](./1665567114927.png)
 ![Sustainability Diagram](./sustainability-15-05930-g004.png)
 
+<img src="./1665567114927.png" alt="Ejemplo ALIF" width="350">
+<p align="center">
+  <img src="./Burst-Buddy-Photo-Management.webp" width="300">
+  <img src="./1665567114927.png" width="300">
+</p>
+
 
 
 
