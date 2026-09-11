@@ -6,6 +6,9 @@
   <img src="./sustainability-15-05930-g004.png" width="200">
 </p>
 
+<p align="center">
+  <img src="./BU3AXnzXyGDmWekr4zajU.png" alt="Collage ALIF" width="450">
+</p>
 
 
 
