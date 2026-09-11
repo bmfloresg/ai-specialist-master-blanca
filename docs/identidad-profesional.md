@@ -37,4 +37,3 @@ Ver proyecto
 
 3. AORA — Agente Operativo de Resumen y Acción
 Lectura + resumen + tareas + ejecución automática
-Ver proyecto<img width="474" height="315" alt="th" src="https://github.com/user-attachments/assets/062c77d4-56e8-4eb7-8b8a-082ce078a422" />
