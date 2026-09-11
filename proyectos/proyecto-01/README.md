@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./BU3AXnzXyGDmWekr4zajU.png" alt="Collage ALIF" width="450">
+  <img src="./Burst-Buddy-Photo-Management.webp" alt="Collage ALIF" width="450">
 </p>
 
 
