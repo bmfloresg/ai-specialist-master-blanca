@@ -12,6 +12,7 @@ Mi enfoque combina estrategia, construcción técnica y adopción para integrar 
 
 ⭐ Qué entrego
 Entrego soluciones de IA que optimizan operaciones, generan claridad en la toma de decisiones y proporcionan un roadmap claro para la adopción sostenible de la inteligencia artificial.
+
 🧠 Mi enfoque como AI Specialist
 Integración de IA en procesos reales
 
@@ -26,6 +27,7 @@ Paneles interactivos con Streamlit
 Diseño de pipelines y arquitecturas
 
 Documentación técnica profesional
+
 🚀 Proyectos del Máster (3 pilares de mi especialidad)
 1. ALIF — Agente de Limpieza Inteligente de Fotos
 Automatización + clasificación + agentes simples
