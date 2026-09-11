@@ -1,12 +1,9 @@
-![Magix Photo Manager](./Magix_Photo_Manager_Deluxe.jpg)
-![Burst Buddy Photo Management](./Burst-Buddy-Photo-Management.webp)
-![Imagen del proyecto](./1665567114927.png)
-![Sustainability Diagram](./sustainability-15-05930-g004.png)
 
 <p align="center">
-  <img src="./Magix_Photo_Manager_Deluxe.jpg" width="300">
-  <img src="./Burst-Buddy-Photo-Management.webp" width="300">
-  <img src="./1665567114927.png" width="300">
+  <img src="./Magix_Photo_Manager_Deluxe.jpg" width="400">
+  <img src="./Burst-Buddy-Photo-Management.webp" width="400">
+  <img src="./1665567114927.png" width="400">
+  <img src="./sustainability-15-05930-g004.png" width="400">
 </p>
 
 
